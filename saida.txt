@@ -1,0 +1,19 @@
+Qualidade:1080  Codigo:111  Titulo:Filme 1   Ano:2024  Categoria:Ficcao
+Qualidade:640  Codigo:222  Titulo:Filme 2   Ano:2022  Categoria:Drama
+Qualidade:4096  Codigo:333  Titulo:Filme 3   Ano:1990  Categoria:Acao
+Qualidade:1080  Codigo:444  Titulo:Filme 4   Ano:2021  Categoria:Drama
+Duração:5.5  Codigo:555  Titulo:Musica 1   Ano:2023  Categoria:Romance
+Duração:6.6  Codigo:666  Titulo:Musica 2   Ano:1999  Categoria:Drama
+Duração:7.7  Codigo:777  Titulo:Musica 3   Ano:2023  Categoria:Romance
+Duração:8.8  Codigo:888  Titulo:Musica 4   Ano:2022  Categoria:Ficcao
+Codigo:777  Titulo:Musica 3   Ano:2023  ValorLocação:2.31
+Codigo:222  Titulo:Filme 2   Ano:2022  Categoria:Drama  ValorLocação:15.0
+Codigo:444  Titulo:Filme 4   Ano:2021  Categoria:Drama  ValorLocação:15.0
+Codigo:666  Titulo:Musica 2   Ano:1999  Categoria:Drama  ValorLocação:4.619999999999999
+Codigo:111   Ano:2024  Titulo:Filme 1  Categoria:FIC  ValorLocação:20.0
+Codigo:444   Ano:2021  Titulo:Filme 4  Categoria:DRA  ValorLocação:15.0
+Titulo: Musica 4   Duracão: 8.8  ValorLocação:4.4
+Codigo:666   Ano: 1999  Titulo:Musica 2  ValorLocação:4.619999999999999
+Somatorio:68.36
+Média: 2.79, CodigoMaisDaMusicaProx:777, Valor:2.31
+Primeira midia:  Ano: 2024, Titulo: Filme 1, Codigo: 111
